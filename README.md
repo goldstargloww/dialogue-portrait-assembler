@@ -42,3 +42,8 @@ options:
 
 example video: https://github.com/user-attachments/assets/1518e65d-0675-4971-94a8-ab03f55d0453
 
+# notes
+
+this was made for starlightshore and pedro diogo's [overkill au](https://overkill.webcomic.ws/about)! sam was looking for a tool that could do this and i took it as a coding challenge :>
+
+also, if you find any issues, have any feature requests, or need any help, please tell me!!! this is super simple for me to code and i want to make it easy to use, so i'd be glad for anyone to come to me :>
