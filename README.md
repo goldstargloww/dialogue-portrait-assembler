@@ -39,3 +39,6 @@ options:
 - `py portraitassembler.py --base "character/bases/default.png" --overlays "character/overlays"`
 - `py portraitassembler.py -b "character/bases/default.png" -O "character/overlays" -t "character/{base}/character_{base}_{overlay}.png"`
 
+
+example video: https://github.com/user-attachments/assets/1518e65d-0675-4971-94a8-ab03f55d0453
+
